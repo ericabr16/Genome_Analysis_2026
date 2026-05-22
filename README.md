@@ -1,3 +1,2 @@
-Welcome to Erica Brown's Genome Analysis Project!
-
-Here you will find the code and Wiki :)
+## Project Overview
+This project focuses on analyzing how a specific bacterial strain adapts and responds to different environments comparing a baseline growth medium against human blood serum. By assembling the bacteria's genome from raw sequencing data and identifying its genes, this pipeline tracks exactly which functions are turned "on" or "off" when the bacteria encounters serum. This helps us understand the molecular mechanisms the bacteria uses to survive and potentially cause infection inside a host.
