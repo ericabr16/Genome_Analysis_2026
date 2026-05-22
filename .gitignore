@@ -1,0 +1,12 @@
+# Ignore huge sequencing data files
+*.fastq.gz
+*.fq.gz
+*.fastq
+*.fq
+*.bam
+*.sam
+*.bai
+
+# Ignore raw data directories
+raw/
+data/
