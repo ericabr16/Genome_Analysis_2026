@@ -1,0 +1,45 @@
+TrimmomaticPE: Started with arguments:
+ -phred33 /proj/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_BH/raw/ERR1797972_1.fastq.gz /proj/uppmax2026-1-61/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_BH/raw/ERR1797972_2.fastq.gz ERR1797972_trimmed_R1_paired.fq.gz ERR1797972_trimmed_R1_unpaired.fq.gz ERR1797972_trimmed_R2_paired.fq.gz ERR1797972_trimmed_R2_unpaired.fq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Multiple cores found: Using 2 threads
+Input Read Pairs: 27078884 Both Surviving: 26280951 (97.05%) Forward Only Surviving: 650580 (2.40%) Reverse Only Surviving: 98147 (0.36%) Dropped: 49206 (0.18%)
+TrimmomaticPE: Completed successfully
+Started analysis of ERR1797972_trimmed_R1_paired.fq.gz
+Approx 5% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 10% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 15% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 20% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 25% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 30% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 35% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 40% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 45% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 50% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 55% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 60% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 65% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 70% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 75% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 80% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 85% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 90% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Approx 95% complete for ERR1797972_trimmed_R1_paired.fq.gz
+Started analysis of ERR1797972_trimmed_R2_paired.fq.gz
+Approx 5% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 10% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 15% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 20% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 25% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 30% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 35% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 40% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 45% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 50% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 55% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 60% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 65% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 70% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 75% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 80% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 85% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 90% complete for ERR1797972_trimmed_R2_paired.fq.gz
+Approx 95% complete for ERR1797972_trimmed_R2_paired.fq.gz
